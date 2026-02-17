@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 17 10:26:06 2026
 
-@author: spk
+@author: Shaul Sapielkin
 """
 
 import numpy as np
@@ -183,3 +183,4 @@ if __name__ == "__main__":
     print(f"E={sample_key[0]}, S={sample_key[1]}, ρ={sample_key[2]}")
     print(f"Optimal council size: {results['optimal_sizes'][sample_key]}")
     print(f"Effectiveness M_0.9: {results['effectiveness'][sample_key][0.9]}")
+
