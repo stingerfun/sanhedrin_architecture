@@ -132,7 +132,7 @@ If you use this work, please cite:
 ```bibtex
 @article{yourname2026sanhedrin,
   title={Sanhedrin Architecture: Context-Aware Adaptive Model Council for AI Decision Systems},
-  author={Your Name},
+  author={Shaul Sapielkin},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2026}
 }
