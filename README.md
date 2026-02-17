@@ -6,7 +6,7 @@
 Official code repository for the paper:
 
 **"Sanhedrin Architecture: Context-Aware Adaptive Model Council for AI Decision Systems"**  
-*Your Name* (2026)
+*Shaul Sapielkin* (2026)
 
 ## Overview
 
