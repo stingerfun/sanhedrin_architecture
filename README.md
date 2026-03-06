@@ -1,6 +1,6 @@
 # Sanhedrin Architecture: Context-Aware Adaptive Model Council
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![DOI](10.36227/techrxiv.177220350.01990157/v1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official code repository for the paper:
