@@ -1,6 +1,5 @@
 # Sanhedrin Architecture: Context-Aware Adaptive Model Council
-
-[![DOI](https://img.shields.io)](https://doi.org)
+**DOI:** [10.36227/techrxiv.177220350.01990157/v1](https://doi.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official code repository for the paper:
@@ -130,10 +129,10 @@ n_trials = 1000                             # Monte Carlo samples
 If you use this work, please cite:
 
 ```bibtex
-@article{yourname2026sanhedrin,
+@article{sapielkin2026sanhedrin,
   title={Sanhedrin Architecture: Context-Aware Adaptive Model Council for AI Decision Systems},
   author={Shaul Sapielkin},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={TechRxiv:10.36227/techrxiv.177220350.01990157/v1},
   year={2026}
 }
 ```
@@ -144,7 +143,7 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-For questions or collaboration: your.email@example.com
+For questions or collaboration: shaul.sapielkin@weizmann.ac.il
 
 ---
 
